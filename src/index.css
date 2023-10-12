@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.search-item{
+  width: 50%;
+  margin: .8rem auto;
+  background: #eee;
+  padding: .6rem 0;
+  outline: none;
+  border-radius: 5px;
+}
